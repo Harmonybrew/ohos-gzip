@@ -64,7 +64,6 @@ export PATH=/opt/gzip-1.14-ohos-arm64/bin:$PATH
 ```sh
 git clone https://github.com/Harmonybrew/ohos-gzip.git
 cd ohos-gzip
-
 docker run \
   --rm \
   -it \
