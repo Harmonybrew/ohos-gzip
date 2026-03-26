@@ -88,6 +88,7 @@ cd gzip-1.14
 make -j$(nproc)
 make install
 cd ..
+
 # 进行代码签名
 cd /opt/gzip-1.14-ohos-arm64
 find . -type f \( -perm -0111 -o -name "*.so*" \) | while read FILE; do
