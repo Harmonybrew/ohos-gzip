@@ -45,7 +45,7 @@ export PATH=/data/gzip-1.14-ohos-arm64/bin:$PATH
 示例：
 ```sh
 cd /opt
-curl -fLO https://github.com/Harmonybrew/ohos-gzip/releases/download/1.14/tar-1.14-ohos-arm64.tar.gz
+curl -fLO https://github.com/Harmonybrew/ohos-gzip/releases/download/1.14/gzip-1.14-ohos-arm64.tar.gz
 tar -zxf gzip-1.14-ohos-arm64.tar.gz
 export PATH=/opt/gzip-1.14-ohos-arm64/bin:$PATH
 
